@@ -1,3 +1,7 @@
+/*
+	Copyright 2019 Will Thomas Hodges
+*/
+
 document.addEventListener('touchmove', function(e) {
     e.preventDefault();
 }, { passive: false });
