@@ -1,3 +1,5 @@
+touch-action: none;
+
 body {
  	overflow: scroll;
 	padding: 0; 
