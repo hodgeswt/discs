@@ -35,6 +35,3 @@ function draw() {
 	ellipse(mouseX, mouseY, 80, 80);
 }
 
-document.ontouchmove = function(e){ 
-        e.preventDefault(); 
-}
