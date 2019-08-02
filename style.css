@@ -1,18 +1,11 @@
 html {
-	overflow: scroll;
+	overflow: hidden;
 	touch-action: none;
 }
 
 body {
 	touch-action: none;
- 	overflow: scroll;
+ 	overflow: hidden;
 	padding: 0; 
 	margin: 0;
-}
-
-.lock-screen {
-    height: 100%;
-    overflow: hidden;
-    width: 100%;
-    position: fixed;
 }
