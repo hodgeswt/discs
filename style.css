@@ -1,8 +1,13 @@
- body {
+html {
+	overflow: hidden;
+	touch-action: none;
+	overflow-y: scroll;
+}
+
+body {
+	touch-action: none;
  	overflow: hidden;
 	padding: 0; 
 	margin: 0;
-}
-html {
-	overflow: hidden;
+	overflow-y: scroll;
 }
