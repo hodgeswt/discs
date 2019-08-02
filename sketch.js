@@ -1,3 +1,8 @@
+document.addEventListener('touchmove', function(e) {
+    e.preventDefault();
+}, { passive: false });
+
+
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 }
