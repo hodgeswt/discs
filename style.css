@@ -1,7 +1,6 @@
 html {
 	overflow: hidden;
 	touch-action: none;
-	position: fixed;
 	overflow-y: scroll;
 }
 
@@ -10,6 +9,5 @@ body {
  	overflow: hidden;
 	padding: 0; 
 	margin: 0;
-	position: fixed;
 	overflow-y: scroll;
 }
